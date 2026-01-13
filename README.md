@@ -1,4 +1,4 @@
-# Personal Project Repository
+# Internship Repository
 
 This repository contains selected academic and personal projects.
 
