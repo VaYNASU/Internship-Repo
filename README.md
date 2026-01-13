@@ -1,4 +1,4 @@
-# Project Repository
+# Personal Project Repository
 
 This repository contains selected academic and personal projects.
 
